@@ -6,9 +6,12 @@ Step 2. Locate the ISO file on your PC for the Operating System you wish to inst
 Step 3. Plug in your USB and run the program.
 Step 4. Set the paramaters in the program for what you want and click "Start" in the program window and wait for it to finish. it's that easy.
 
-Another way to create a bootable USB uses a similar program to Rufus called "Windows Media Creation Tool". 
+Another way to create a bootable USB uses a similar program to Rufus called "Windows Media Creation Tool" though this one only works for Windows supported Operating Systems.
+For this example we'll be using Windows 11
 
 Step 1. Install the Application here https://www.microsoft.com/en-ca/software-download/windows11
 Step 2. Plug-in your USB and Open the Media Creation tool and follow the prompts.
 Step 3. Apply your desired settings and click "Start"
 
+Both of these will allow you to install the desried operating systems over multiple PC's. 
+Note that if you wish to fully activate the installed operating systems that you will need a seperate Product key for each installation.
